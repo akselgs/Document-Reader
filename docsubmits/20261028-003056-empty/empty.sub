@@ -1,0 +1,12 @@
+    executable            = $ENV(HOME)/DocReader/ClusterSide/worker.sh
+    
+    should_transfer_files = YES
+    transfer_input_files  = empty.pdf, $ENV(HOME)/DocReader/ClusterSide/
+    
+    arguments             = "empty.pdf"
+    output                = job.out
+    error                 = job.err
+    log                   = job.log
+    
+    queue
+    

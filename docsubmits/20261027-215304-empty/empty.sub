@@ -1,0 +1,13 @@
+    executable            = worker.sh
+    arguments             = "~/docksubmits/20261027-215304-empty/empty.pdf ~/docksubmits/20261027-215304-empty/"
+    
+    should_transfer_files = YES
+    transfer_input_files  = ~/docksubmits/20261027-215304-empty/empty.pdf
+    transfer_output_files = ~/docksubmits/20261027-215304-empty/
+    
+    output                = job.out
+    error                 = job.err
+    log                   = job.log
+    
+    queue
+    

@@ -1,0 +1,12 @@
+    executable            = $ENV(HOME)/DocReader/ClusterSide/worker.sh
+    
+    should_transfer_files = YES
+    transfer_input_files  = mock_svar2.pdf, $ENV(HOME)/DocReader/ClusterSide/
+    
+    arguments             = "mock_svar2.pdf"
+    output                = job.out
+    error                 = job.err
+    log                   = job.log
+    
+    queue
+    
