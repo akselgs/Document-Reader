@@ -1,0 +1,98 @@
+<doctag><picture><loc_44><loc_5><loc_99><loc_26><logo></picture>
+<text><loc_142><loc_8><loc_249><loc_15>Navn: Ole Kari Nordmann</text>
+<text><loc_142><loc_19><loc_255><loc_26>Personnummerr. 12312314</text>
+<text><loc_142><loc_29><loc_254><loc_36>Address: Norgesveien 16D</text>
+<text><loc_35><loc_58><loc_99><loc_89>HVL sykehus Medisink post 1 5000 BERGEN v/ Dr. ABC</text>
+<text><loc_35><loc_127><loc_149><loc_136>Clinical Information</text>
+<text><loc_35><loc_143><loc_467><loc_175>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum ut, placerat ac, adipiscing vitae, telis. Curabitur dictum gravida mauris. Nam arcu libero, nonummy eget, consectetuer id, vulputate a, magna. Donec vehicula augue eu neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris ut leo.</text>
+<section_header_level_1><loc_36><loc_188><loc_93><loc_198>Diagnosis</section_header_level_1>
+<text><loc_35><loc_205><loc_465><loc_221>Primary diagnosis: Example diagnosis description. Secondary diagnosis: Additional diagnosis if applica­ ble.</text>
+<section_header_level_1><loc_35><loc_232><loc_81><loc_240>Ansvarlig</section_header_level_1>
+<text><loc_35><loc_245><loc_69><loc_253>Dr. DEF</text>
+<text><loc_35><loc_254><loc_73><loc_262>Overlege</text>
+<section_header_level_1><loc_35><loc_267><loc_156><loc_274>Mikroskopisk undersokelse</section_header_level_1>
+<text><loc_35><loc_276><loc_255><loc_283>status. EPON blokk tilsede, EM gjennomfört</text>
+<text><loc_35><loc_284><loc_149><loc_291>Antall EPON blokker.2</text>
+<text><loc_35><loc_300><loc_165><loc_307>Toluidinblatt farget semitynnnsitt</text>
+<text><loc_35><loc_308><loc_108><loc_315>kortex.</text>
+<text><loc_35><loc_316><loc_208><loc_323>Medulla. pävist Antall glomeruli.</text>
+<text><loc_35><loc_324><loc_181><loc_331>Antall vurderbare glomeruli.</text>
+<text><loc_35><loc_332><loc_119><loc_339>Antall glomeruli med</text>
+<text><loc_35><loc_340><loc_136><loc_347>kun neksero.</text>
+<text><loc_35><loc_348><loc_121><loc_355>halvmåner.0</text>
+<text><loc_35><loc_356><loc_160><loc_363>segmental sklerose.2</text>
+<text><loc_35><loc_364><loc_139><loc_371>global sklerose.1</text>
+<text><loc_35><loc_372><loc_108><loc_379>iskemi.0</text>
+<text><loc_35><loc_388><loc_121><loc_395>Ultrastrukturelle funn</text>
+<text><loc_35><loc_396><loc_123><loc_403>Nedlag.</text>
+<text><loc_35><loc_404><loc_125><loc_411>subepitelial.0</text>
+<text><loc_35><loc_412><loc_135><loc_419>intramembranés.0</text>
+<text><loc_35><loc_420><loc_136><loc_427>subendotelial.0</text>
+<text><loc_35><loc_428><loc_115><loc_435>mmesangial.1</text>
+<text><loc_35><loc_444><loc_184><loc_451>Fotprofessfusjon.</text>
+<text><loc_35><loc_452><loc_160><loc_459>Basalmembran.</text>
+<text><loc_35><loc_452><loc_160><loc_459>Basalmembran.</text>
+<text><loc_35><loc_452><loc_160><loc_459>Basalmembran.</text>
+<text><loc_35><loc_452><loc_160><loc_459>Basalmembran.</text>
+<text><loc_35><loc_452><loc_160><loc_459>Basalmembran.</text>
+<text><loc_35><loc_452><loc_160><loc_459>Basalmembran.</text>
+<text><loc_259><loc_58><loc_455><loc_72>Externt ref.nr: 3e12312124241-123-124124-123 Antall glass mottatt: 5</text>
+<text><loc_264><loc_88><loc_310><loc_95>Proven tatt</text>
+<text><loc_321><loc_88><loc_352><loc_95>01.01.2000</text>
+<text><loc_362><loc_88><loc_382><loc_95>12:00</text>
+<text><loc_264><loc_96><loc_310><loc_103>Motatt dato</text>
+<text><loc_321><loc_96><loc_352><loc_103>02.01.2000</text>
+<text><loc_362><loc_96><loc_382><loc_103>13:00</text>
+<text><loc_264><loc_104><loc_310><loc_111>Rapportert</text>
+<text><loc_321><loc_104><loc_352><loc_111>03.01.2000</text>
+<text><loc_362><loc_104><loc_382><loc_111>14:00</text>
+<page_footer><loc_226><loc_488><loc_273><loc_495>Page 1 of 3</page_footer>
+</doctag>
+
+
+
+<doctag><picture><loc_43><loc_7><loc_114><loc_24></picture>
+<text><loc_143><loc_8><loc_249><loc_15>Navn: Ole Kari Nordmann</text>
+<text><loc_143><loc_18><loc_255><loc_25>Personnummerr. 12312314</text>
+<text><loc_143><loc_28><loc_253><loc_35>Address: Norgesveien 16D</text>
+<text><loc_35><loc_51><loc_129><loc_59>PATOLOGI-AVDELING</text>
+<text><loc_36><loc_59><loc_126><loc_66>A10000 B20000 C30000</text>
+<text><loc_150><loc_59><loc_186><loc_66>D40000</text>
+<text><loc_200><loc_59><loc_250><loc_66>E50000 F60000</text>
+<text><loc_35><loc_80><loc_212><loc_87>Historikk: Forelopig svarrapport 01.01.1999</text>
+<text><loc_35><loc_88><loc_116><loc_95>Forelopig diagnose:</text>
+<text><loc_35><loc_96><loc_91><loc_103>VELDIG SYK</text>
+<text><loc_36><loc_104><loc_61><loc_111>Biopsi</text>
+<text><loc_35><loc_112><loc_78><loc_119>Vurdering:</text>
+<text><loc_35><loc_120><loc_467><loc_144>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, ut purus elit, vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu libero, nonummy eget, consectetuer id, vulputate a, magna.</text>
+<section_header_level_1><loc_35><loc_163><loc_81><loc_171>Ansvarlig</section_header_level_1>
+<text><loc_36><loc_177><loc_69><loc_184>Dr. DEF</text>
+<text><loc_36><loc_185><loc_76><loc_192>Overlege</text>
+<otsl><loc_35><loc_198><loc_465><loc_343><fcel>Strukturert informasjon<fcel>Pavist<nl><fcel>Kortex<fcel>Medulla<nl><fcel>Antall glomeruli<fcel>20<nl><fcel>Antall glomeruli med global sklerose<fcel>1<nl><fcel>Antall glomeruli med kun nekrose<fcel>1<nl><fcel>Antall glomeruli med cellulare halvmpner<fcel>1<nl><fcel>Antall glomeruli med fibrocellulare halvma nner<fcel>1<nl><fcel>Antall glomeruli med fibrose halvma nner<fcel>1<nl><fcel>Antall glomeruli med segmental sklerose<fcel>1<nl><fcel>Antall glomeruli med sikemiske forandringer<fcel>1<nl><fcel>Antall arterier<fcel>2<nl><fcel>Arteriosklerose<fcel>Moderat<nl><fcel>Arteriohyalinose<fcel>Lettgradelig<nl><fcel>Tubulusatrofi<fcel>Moderat<nl><fcel>Interstitiell fibrose<fcel>Moderat<nl><fcel>Interstitiell fibrose<fcel>20<nl><fcel>Kongordfarging<fcel>Ikke pävist<nl></otsl>
+<page_footer><loc_226><loc_486><loc_273><loc_494>Page 2 of 3</page_footer>
+<text><loc_313><loc_8><loc_341><loc_15>Ref.nr:</text>
+<text><loc_313><loc_18><loc_359><loc_25>123123123</text>
+</doctag>
+
+
+
+<doctag><picture><loc_43><loc_8><loc_114><loc_25><logo></picture>
+<text><loc_143><loc_8><loc_251><loc_15>Navn: Ole Kari Nordmann</text>
+<text><loc_143><loc_18><loc_257><loc_25>Personnummerr. 12312314</text>
+<text><loc_143><loc_28><loc_256><loc_35>Address: Norgesveien 16D</text>
+<section_header_level_1><loc_35><loc_51><loc_161><loc_58>Mikroskopisk undersökelse:</section_header_level_1>
+<text><loc_35><loc_59><loc_467><loc_98>Quisque ullamcorper placerat ipsum. Cras nibh. Morbi vel justo vitae lacus tincidunt ultrices. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. In hac habitasse platea dictumst. Integer tempus convallis augue. Etiam facilisis. Nunc elementum fermentum wisi. Aenean placerat. Ut imperdiet, enim sed gravida sollicitudin, felis odio placerat quam, ac pulvinar elit purus eget enim. Nunc vitae tortor. Proin tempus nibh sit amet nisl. Vivamus quis tortor vitae risus porta vehicula.</text>
+<text><loc_35><loc_107><loc_214><loc_115>Historikk: Forelopig svarrapport 01.01.1999</text>
+<code><loc_35><loc_132><loc_175><loc_204><_FORTRAN_>Immunatologiske funn i glomerul
+  ... metode. ... Immunhistokjem
+  ... IgA. ...
+  ... IgM. +
+  ... IgC. ++
+  ... C1q. +++
+  ... C3. -
+  ... C5b-9. + i mesangiene
+  ... lette kjeder. lik ekspresjon</code>
+<page_footer><loc_226><loc_487><loc_273><loc_494>Page 3 of 3</page_footer>
+<text><loc_313><loc_8><loc_343><loc_15>Ref.r</text>
+<text><loc_313><loc_18><loc_361><loc_25>123123</text>
+</doctag>

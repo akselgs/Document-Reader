@@ -18,6 +18,8 @@ import subprocess
 import sys
 from pathlib import Path
 
+import secrets
+
 
 def run(cmd):
     """Run a command, print its output, and stop the script if it fails."""
