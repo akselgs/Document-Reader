@@ -1,0 +1,68 @@
+
+{
+  "ref_nr": 123123123,                 
+  "prøven_tatt": "2000-01-01T12:00:00",             
+  "rapportert": "2000-01-03T14:00:00",           
+
+
+  "elektronmikroskop": {
+      "epon_block_status": true,  
+
+
+      "toluidinblått": {
+          "kortex": true,     
+          "medulla": true,         
+          "glomeruli": 10,     
+          "vurderbare_glomeruli": 10, 
+
+          "nekroser": 0,          
+          "halvmåner": 0,         
+          "segmental": 2,        
+          "global": 1,         
+          "iskemi": 0         
+      },
+
+
+      "ultrastrukturelle_funn": {
+          "nedslag": false,          
+          "subepitelial": false,     
+          "intramembranos": false,    
+          "subendotelial": false, 
+          "mesangial": true,       
+          "fotprosessfusjon": "Segmental", 
+          "basalmembran": "False" 
+      }
+  },
+
+
+  "lysmikroskop": {
+      "kortex": true,       
+      "medulla": true,  
+      "glomeruli": 20,  
+
+      "global": 1,       
+      "nekroser": 1,    
+      "cellular": 1, 
+      "fibrocellular": 1,    
+      "fibrous": 1,       
+      "halvmåner": 3,           
+      "segmental": 1,      
+      "iskemi": 1,            
+      "arterier": 2,          
+      "arteriosklerose": "Moderate",    
+      "arteriehyalinose": "Low",      
+      "tubulusatrofi": "Moderate", 
+      "interstitiell": "Moderate",
+      "interstitiell_percent": 20
+  },
+
+  "immunpatologiske_funn": {
+      "metode": "Immunhistokjemi",
+      "iga": "-",
+      "igm": "+",
+      "igg": "++",
+      "c1q": "+++",
+      "c3": "-",
+      "lette_kjeder": "lik ekspresjon"
+  }
+}
