@@ -1,0 +1,14 @@
+Checking/converting input: mock3.pdf
+Converting PDF to PNG at 150 DPI (max 3 pages)
+Produced 3 page(s)
+Running model on page_001
+Wrote 3723 characters to raw/page_001.txt
+Running model on page_002
+Wrote 3879 characters to raw/page_002.txt
+Running model on page_003
+Wrote 1782 characters to raw/page_003.txt
+Concatenating output
+Wrote 3 page(s) to mock3.txt
+Serializing output
+Wrote mock3.json
+Done: mock3.txt, mock3.json
