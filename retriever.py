@@ -18,6 +18,7 @@ import sys
 import tempfile
 import textwrap
 from pathlib import Path, PurePosixPath
+from datetime import datetime
 
 from doc_reader import parse_args, ssh, JobError
 
@@ -93,6 +94,22 @@ def fetch_one(ticket: dict, results: Path, args) -> bool:
     print(f"  retrieved {name}" + (" (with job output)" if have_out else ""))
     return True
 
+def archive_results(folder: Path, results: Path) -> Path | None:
+    """Move <folder>/results to <root>/TestResults/<datetime>/<folder name>.
+
+    Layout: <root>/Tests/Test1/results -> <root>/TestResults/<stamp>/Test1
+    """
+    if not results.is_dir():
+        return None
+    folder = folder.resolve()
+    root = folder.parent.parent                       # the folder that holds Tests/
+    stamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")   # no colons: invalid on Windows
+    dest = root / "TestResults" / stamp / folder.name
+    if dest.exists():
+        raise JobError(f"archive folder already exists: {dest}")
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    shutil.move(str(results), str(dest))
+    return dest
 
 def fetch_main(argv=None):
     sys.stdout.reconfigure(errors="replace")      # job output may contain characters the console can't show
@@ -129,6 +146,12 @@ def fetch_main(argv=None):
 
     if pending:
         sys.exit(1)
+    try:
+        dest = archive_results(folder, results)
+        if dest:
+            print(f"\nMoved results to {dest}")
+    except (JobError, OSError) as e:
+        print(f"\nCould not archive results: {e} (left in {results})")
 
 
 if __name__ == "__main__":

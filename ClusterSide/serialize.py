@@ -447,29 +447,40 @@ def fill_lysmikroskop(sec, elems):
 
 
 def fill_immunpatologi(sec, elems):
-    code = page_code(elems)
+    # Docling sometimes emits a <code> block, sometimes plain <text> lines.
+    code = page_code(elems) or page_text(elems)
     P = "immunpatologiske_funn."
 
-    # --- method ---
-    if nsearch(r"\bImmunhistokjemi\b", code, P + "metode"):
-        sec["metode"] = "Immunhistokjemi"
-    elif nsearch(r"\bImmunfluorescens\b", code, P + "metode"):
-        sec["metode"] = "Immunfluorescens"
+    def strip_fill(s):
+        """Remove dot leaders / ellipses and surrounding whitespace."""
+        return s.replace("…", "").strip(" .\t")
 
-    # --- one line per marker, e.g. "... IgM. +"  ->  "+"  ("..." means empty) ---
-    labels = {"iga": r"IgA", "igm": r"IgM", "igg": r"IgG", "c1q": r"C1q", "c3": r"C3"}
+    labels = {"iga": r"[Il1]gA", "igm": r"[Il1]gM", "igg": r"[Il1]gG",
+              "c1q": r"C1q", "c3": r"C3"}
+
     for line in code.splitlines():
         line = line.replace("\u2212", "-").replace("\u2013", "-").strip()
+
+        # --- method: free text after the label, e.g. "metode...Immunhistokjemi" ---
+        m = re.match(r"^\W*metode\b[ .\t]*(?P<rest>.*)$", line, re.I)
+        if m:
+            sec["metode"] = strip_fill(m.group("rest")) or None
+            continue
+
+        # --- lette kjeder: free text ---
+        m = re.match(r"^\W*lette kjeder\b[ .\t]*(?P<rest>.*)$", line, re.I)
+        if m:
+            sec["lette_kjeder"] = strip_fill(m.group("rest")) or None
+            continue
+
+        # --- one line per marker, e.g. "...IgM......+" -> "+" ---
         for key, label in labels.items():
-            m = re.match(rf"^\W*{label}\b\.*\s*(?P<rest>.*)$", line, re.I)
+            m = re.match(rf"^\W*{label}\b[ .\t]*(?P<rest>.*)$", line, re.I)
             if m:
-                rest = m.group("rest").replace("...", "").replace("…", "").strip()
+                rest = strip_fill(m.group("rest"))
                 s = re.match(r"(\+{1,3}|-)(?=\s|$)", rest)
                 sec[key] = s.group(1) if s else None
-        m = re.match(r"^\W*lette kjeder\b\.*\s*(?P<rest>.*)$", line, re.I)
-        if m:
-            v = m.group("rest").replace("...", "").replace("…", "").strip(" .")
-            sec["lette_kjeder"] = v or None
+                break
 
 
 # Page order -> section name and the function that fills it.
