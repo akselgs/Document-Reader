@@ -1,1 +1,0 @@
-#Scans the document and identifies .pdf and .png documents
