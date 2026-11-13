@@ -40,7 +40,7 @@ error                   = job.err
 log                     = job.log
 
 request_cpus            = 1
-request_memory          = 1GB
+request_memory          = 600MB
 request_disk            = 1GB
 
 max_retries             = 0

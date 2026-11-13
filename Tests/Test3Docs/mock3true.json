@@ -6,12 +6,12 @@
 
 
   "elektronmikroskop": {
-      "epon_block_status": false,  
+      "epon_block_status": null,  
 
 
       "toluidinblått": {
-          "kortex": null,     
-          "medulla": null,         
+          "kortex": false,     
+          "medulla": false,         
           "glomeruli": null,     
           "vurderbare_glomeruli": null, 
 

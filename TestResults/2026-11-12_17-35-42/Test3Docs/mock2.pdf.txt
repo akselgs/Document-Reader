@@ -1,0 +1,100 @@
+
+<doctag><picture><loc_44><loc_5><loc_98><loc_26><logo></picture>
+<text><loc_35><loc_29><loc_115><loc_35>SVARRAPPORT</text>
+<text><loc_143><loc_9><loc_245><loc_16>Navn: Berit Bernhardsen</text>
+<text><loc_143><loc_20><loc_269><loc_27>Personnummer. 112233 12345</text>
+<text><loc_143><loc_31><loc_226><loc_38>Address: Oslos gate</text>
+<text><loc_35><loc_58><loc_104><loc_89>HVL sykehus Medisinsk post 1 5000 BERGEN v/ Dr. ABC</text>
+<text><loc_252><loc_58><loc_460><loc_72>Eksternt ref.nr: 3e12312124241-123-124124-123 Antall glass mottatt: 5</text>
+<text><loc_264><loc_88><loc_311><loc_95>Proven tatt</text>
+<text><loc_323><loc_88><loc_370><loc_95>01.01.2000</text>
+<text><loc_381><loc_88><loc_403><loc_95>12:00</text>
+<text><loc_264><loc_96><loc_311><loc_103>Mottatt dato</text>
+<text><loc_323><loc_96><loc_370><loc_103>02.01.2000</text>
+<text><loc_381><loc_96><loc_403><loc_103>13:00</text>
+<text><loc_264><loc_104><loc_311><loc_111>Rapportert</text>
+<text><loc_323><loc_104><loc_370><loc_111>03.01.2000</text>
+<text><loc_381><loc_104><loc_403><loc_111>14:00</text>
+<section_header_level_1><loc_35><loc_125><loc_148><loc_135>Clinical Information</section_header_level_1>
+<text><loc_35><loc_143><loc_465><loc_174>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum ut, placerat ac, adipiscing vitae, telis. Curabitur dictum gravida mauris. Nam arcu libero, nonummy eget, consectetuer id, vulputate a, magna. Donec vehicula augue eu neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris ut leo.</text>
+<section_header_level_1><loc_36><loc_188><loc_93><loc_197>Diagnosis</section_header_level_1>
+<text><loc_35><loc_205><loc_465><loc_220>Primary diagnosis: Example diagnosis description. Secondary diagnosis: Additional diagnosis if applica­ ble.</text>
+<section_header_level_1><loc_35><loc_232><loc_81><loc_239>Ansvarlig</section_header_level_1>
+<text><loc_35><loc_245><loc_69><loc_252>Dr. DEF</text>
+<text><loc_35><loc_254><loc_73><loc_261>Overlege</text>
+<section_header_level_1><loc_35><loc_267><loc_156><loc_274>Mikroskopisk undersokelse</section_header_level_1>
+<text><loc_35><loc_276><loc_257><loc_283>status. EPON blokk til stede, EM gjennomført</text>
+<text><loc_35><loc_285><loc_149><loc_291>Antall EPON blokker.1</text>
+<text><loc_35><loc_301><loc_165><loc_308>Toluidinblatt farget semitynnnsitt</text>
+<text><loc_35><loc_309><loc_126><loc_316>kortex. ikke pävist</text>
+<text><loc_35><loc_318><loc_134><loc_324>medulla. ikke pävist</text>
+<text><loc_35><loc_326><loc_126><loc_332>antall glomeruli.13</text>
+<text><loc_35><loc_334><loc_175><loc_340>antall vurderbare glomeruli.5</text>
+<text><loc_35><loc_342><loc_119><loc_348>antall glomeruli med</text>
+<text><loc_35><loc_350><loc_134><loc_356>kun nekrose.0</text>
+<text><loc_35><loc_358><loc_122><loc_364>halvmåner.2</text>
+<text><loc_35><loc_366><loc_161><loc_372>segmental sklerose.2</text>
+<text><loc_35><loc_374><loc_140><loc_380>global sklerose.1</text>
+<text><loc_35><loc_382><loc_108><loc_388>iskemi.0</text>
+<text><loc_35><loc_397><loc_121><loc_403>Ultrastrukturelle funn</text>
+<text><loc_35><loc_405><loc_127><loc_411>Nedslag. ikke pävist</text>
+<text><loc_35><loc_413><loc_119><loc_419>subepitelial.</text>
+<text><loc_35><loc_421><loc_136><loc_427>intramembranØs.X</text>
+<text><loc_35><loc_429><loc_119><loc_435>subendotelial.</text>
+<text><loc_35><loc_437><loc_103><loc_443>mesangial.</text>
+<text><loc_35><loc_452><loc_161><loc_459>Fotprosessfusjon. ikke pävist</text>
+<text><loc_35><loc_460><loc_154><loc_467>Basalmembran.segmental</text>
+<text><loc_252><loc_9><loc_370><loc_16>Ref.nr:</text>
+<text><loc_252><loc_20><loc_360><loc_27>456456456</text>
+<page_footer><loc_226><loc_488><loc_273><loc_495>Page 1 of 3</page_footer>
+</doctag>
+
+
+
+<doctag><picture><loc_43><loc_7><loc_114><loc_24></picture>
+<text><loc_143><loc_8><loc_245><loc_15>Navn: Berit Bernhardsen</text>
+<text><loc_143><loc_18><loc_269><loc_25>Personnummer. 112233 12345</text>
+<text><loc_143><loc_28><loc_226><loc_35>Address: Oslos gate</text>
+<text><loc_35><loc_51><loc_129><loc_59>PATOLOGI-AVDELING</text>
+<text><loc_36><loc_59><loc_126><loc_67>A10000 B20000 C30000</text>
+<text><loc_150><loc_59><loc_202><loc_67>D40000 E50000</text>
+<text><loc_235><loc_59><loc_282><loc_67>F60000</text>
+<text><loc_35><loc_80><loc_212><loc_88>Historikk: Forelopig svarrapport 01.01.1999</text>
+<text><loc_35><loc_88><loc_116><loc_96>Forelopig diagnose:</text>
+<text><loc_35><loc_96><loc_90><loc_104>VELDIG SYK</text>
+<text><loc_35><loc_104><loc_66><loc_112>Biopsi</text>
+<text><loc_35><loc_112><loc_78><loc_120>Vurdering:</text>
+<text><loc_35><loc_120><loc_467><loc_144>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, ut purus elit, vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu libero, nonummy eget, consectetuer id, vulputate a, magna.</text>
+<section_header_level_1><loc_35><loc_163><loc_81><loc_172>Ansvarlig</section_header_level_1>
+<text><loc_35><loc_177><loc_69><loc_185>Dr. DEF</text>
+<text><loc_35><loc_185><loc_76><loc_193>Overlege</text>
+<otsl><loc_35><loc_198><loc_467><loc_343><fcel>Strukturert informasjon<fcel>Ikke pävist<nl><fcel>Kortex<fcel>Ikke pävist<nl><fcel>Medulla<fcel>Ikke pävist<nl><fcel>Antall glomeruli<fcel>14<nl><fcel>Antall glomeruli med global sklerose<fcel>3<nl><fcel>Antall glomeruli med kun nekrose<fcel>4<nl><fcel>Antall glomeruli med cellulare halvmåner<fcel>2<nl><fcel>Antall glomeruli med fibrocellulære halvmåner<fcel>3<nl><fcel>Antall glomeruli med fibrose halvmåner<fcel>0<nl><fcel>Antall glomeruli med segmental sklerose<fcel>0<nl><fcel>Antall glomeruli med iskemiske forandringer<fcel>2<nl><fcel>Antall arterier<fcel>4<nl><fcel>Arteriosklerose<fcel>Kraftig<nl><fcel>Arteriehyalinose<fcel>Betydlig<nl><fcel>Tubulusatrofi<fcel>Moderat<nl><fcel>Interstitiell fibrose<fcel>Lett<nl><fcel>Interstitiell fibrose<fcel>4<nl><fcel>Kongorödfarging<fcel>pävist<nl></otsl>
+<page_footer><loc_226><loc_486><loc_273><loc_494>Page 2 of 3</page_footer>
+<text><loc_313><loc_8><loc_341><loc_15>Ref.nr:</text>
+<text><loc_313><loc_18><loc_359><loc_25>456456456</text>
+</doctag>
+
+
+
+<doctag><picture><loc_43><loc_8><loc_114><loc_26></picture>
+<text><loc_143><loc_8><loc_247><loc_15>Navn: Berit Bernhardsen</text>
+<text><loc_143><loc_18><loc_272><loc_25>Personnummer. 112233 12345</text>
+<text><loc_143><loc_28><loc_229><loc_35>Address: Oslos gate</text>
+<section_header_level_1><loc_36><loc_51><loc_161><loc_58>Mikroskopisk undersökelse:</section_header_level_1>
+<text><loc_36><loc_59><loc_467><loc_98>Quisque ullamcorper placerat ipsum. Cras nibh. Morbi vel justo vitae lacus tincidunt ultrices. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. In hac habitasse platea dictumst. Integer tempus convallis augue. Etiam facilisis. Nunc elementum fermentum wisi. Aenean placerat. Ut imperdiet, enim sed gravida sollicitudin, felis odio placerat quam, ac pulvinar elit purus eget enim. Nunc vitae tortor. Proin tempus nibh sit amet nisl. Vivamus quis tortor vitae risus porta vehicula.</text>
+<text><loc_36><loc_107><loc_214><loc_115>Historikk: Forelopig svarrapport 01.01.1999</text>
+<text><loc_36><loc_132><loc_176><loc_139>Immunatologiske funn i glomerul</text>
+<text><loc_36><loc_140><loc_160><loc_147>metode...Immunhistokjemi</text>
+<text><loc_36><loc_148><loc_88><loc_155>...lgA......++</text>
+<text><loc_36><loc_156><loc_82><loc_163>...lgM......-</text>
+<text><loc_36><loc_164><loc_82><loc_171>...lgG......-</text>
+<text><loc_36><loc_172><loc_88><loc_179>....C1q......+</text>
+<text><loc_36><loc_180><loc_88><loc_187>...C3......++</text>
+<text><loc_36><loc_188><loc_88><loc_195>....C5b-9......+</text>
+<text><loc_36><loc_196><loc_169><loc_203>lette kjeder...ulik ekspresjon</text>
+<page_footer><loc_227><loc_487><loc_273><loc_494>Page 3 of 3</page_footer>
+<text><loc_313><loc_8><loc_343><loc_15>Ref.r</text>
+<text><loc_313><loc_18><loc_361><loc_25>456456456</text>
+</doctag>
+
+

@@ -1,0 +1,107 @@
+===== ENVIRONMENT =====
+host: condorw2.datalab   date: 2026-11-12T17:29:51+01:00
+cpus: 1   total RAM: 594 MB
+input size: 92K
+--- cluster/pool free resources ---
+
+               Total Owner Claimed Unclaimed Matched Preempting  Drain Backfill BkIdle
+
+  X86_64/LINUX     4     0       1         3       0          0      0        0      0
+
+         Total     4     0       1         3       0          0      0        0      0
+[DISK] start
+  job dir used:     104K
+  job dir free:
+    Filesystem           Size  Used Avail Use% Mounted on
+    nfsserver.datalab:/  245G   40G  206G  17% /share
+  shared fs free:
+    Filesystem           Size  Used Avail Use% Mounted on
+    nfsserver.datalab:/  245G   40G  206G  17% /share
+Checking/converting input: mock1.pdf
+Converting PDF to PNG at 150 DPI (max 3 pages)
+Produced 3 page(s)
+[PROFILE] 1_convert
+  wall time:        .983518200 s
+  peak RAM (RSS):   31.0 MB
+  user/sys CPU:     0.28 s / 0.02 s
+  exit code:        0
+pages produced: 3   size of pages/: 140K
+[DISK] after convert
+  job dir used:     244K
+  job dir free:
+    Filesystem           Size  Used Avail Use% Mounted on
+    nfsserver.datalab:/  245G   40G  206G  17% /share
+  shared fs free:
+    Filesystem           Size  Used Avail Use% Mounted on
+    nfsserver.datalab:/  245G   40G  206G  17% /share
+Running model on page_001
+Wrote 4770 characters to raw/page_001.txt
+[INFERENCE.PY] page_001.png
+  total subprocess wall time: 121.85 s
+  peak RSS overall:           467.3 MB
+  (inference marker not seen in stderr; adjust INFERENCE_MARKERS, or rely on llama.cpp's own timings below)
+  llama.cpp reported:
+[PROFILE] 2_inference_page_001
+  wall time:        122.154812235 s
+  peak RAM (RSS):   473.9 MB
+  user/sys CPU:     114.47 s / 0.51 s
+  exit code:        0
+Running model on page_002
+Wrote 2346 characters to raw/page_002.txt
+[INFERENCE.PY] page_002.png
+  total subprocess wall time: 79.53 s
+  peak RSS overall:           530.7 MB
+  (inference marker not seen in stderr; adjust INFERENCE_MARKERS, or rely on llama.cpp's own timings below)
+  llama.cpp reported:
+[PROFILE] 2_inference_page_002
+  wall time:        79.802890477 s
+  peak RAM (RSS):   530.3 MB
+  user/sys CPU:     77.99 s / 0.25 s
+  exit code:        0
+Running model on page_003
+Wrote 1808 characters to raw/page_003.txt
+[INFERENCE.PY] page_003.png
+  total subprocess wall time: 73.79 s
+  peak RSS overall:           530.7 MB
+  (inference marker not seen in stderr; adjust INFERENCE_MARKERS, or rely on llama.cpp's own timings below)
+  llama.cpp reported:
+[PROFILE] 2_inference_page_003
+  wall time:        73.816030588 s
+  peak RAM (RSS):   530.6 MB
+  user/sys CPU:     73.27 s / 0.17 s
+  exit code:        0
+size of raw/: 16K
+[DISK] after inference
+  job dir used:     268K
+  job dir free:
+    Filesystem           Size  Used Avail Use% Mounted on
+    nfsserver.datalab:/  245G   40G  206G  17% /share
+  shared fs free:
+    Filesystem           Size  Used Avail Use% Mounted on
+    nfsserver.datalab:/  245G   40G  206G  17% /share
+Concatenating output
+Wrote 3 page(s) to mock1.txt
+[PROFILE] 3_concatenate
+  wall time:        .025522360 s
+  peak RAM (RSS):   7.5 MB
+  user/sys CPU:     0.00 s / 0.00 s
+  exit code:        0
+Serializing output
+Wrote mock1.json
+[PROFILE] 4_serialize
+  wall time:        .154685094 s
+  peak RAM (RSS):   11.1 MB
+  user/sys CPU:     0.02 s / 0.00 s
+  exit code:        0
+[DISK] end
+  job dir used:     284K
+  job dir free:
+    Filesystem           Size  Used Avail Use% Mounted on
+    nfsserver.datalab:/  245G   40G  206G  17% /share
+  shared fs free:
+    Filesystem           Size  Used Avail Use% Mounted on
+    nfsserver.datalab:/  245G   40G  206G  17% /share
+===== SUMMARY =====
+total wall time: 277.385023118 s
+outputs: 12K	mock1.txt 4.0K	mock1.json 
+Done: mock1.txt, mock1.json

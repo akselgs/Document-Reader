@@ -1,0 +1,56 @@
+{
+  "ref_nr": "789",
+  "prøven_tatt": "2025-01-01T12:00:00",
+  "rapportert": "2025-01-03T15:30:00",
+  "elektronmikroskop": {
+    "epon_block_status": null,
+    "toluidinblått": {
+      "kortex": false,
+      "medulla": false,
+      "glomeruli": null,
+      "vurderbare_glomeruli": null,
+      "nekroser": null,
+      "halvmåner": null,
+      "segmental": null,
+      "global": null,
+      "iskemi": null
+    },
+    "ultrastrukturelle_funn": {
+      "nedslag": true,
+      "subepitelial": true,
+      "intramembranos": false,
+      "subendotelial": false,
+      "mesangial": false,
+      "fotprosessfusjon": "Global",
+      "basalmembran": "Global"
+    }
+  },
+  "lysmikroskop": {
+    "kortex": null,
+    "medulla": null,
+    "glomeruli": null,
+    "global": null,
+    "nekroser": null,
+    "cellular": null,
+    "fibrocellular": null,
+    "fibrous": null,
+    "halvmåner": null,
+    "segmental": null,
+    "iskemi": null,
+    "arterier": null,
+    "arteriosklerose": null,
+    "arteriehyalinose": null,
+    "tubulusatrofi": null,
+    "interstitiell": null,
+    "interstitiell_percent": null
+  },
+  "immunpatologiske_funn": {
+    "metode": "Fritekst",
+    "iga": "+++",
+    "igm": "+++",
+    "igg": "+++",
+    "c1q": "-",
+    "c3": "-",
+    "lette_kjeder": "Norske AEØ"
+  }
+}

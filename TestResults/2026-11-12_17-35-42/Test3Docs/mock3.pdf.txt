@@ -1,0 +1,136 @@
+
+<doctag><picture><loc_41><loc_5><loc_100><loc_26><logo></picture>
+<text><loc_35><loc_29><loc_114><loc_35>SVARRAPPORT</text>
+<text><loc_143><loc_9><loc_237><loc_16>Navn: Christer Carlsen</text>
+<text><loc_143><loc_20><loc_269><loc_27>Personnummer. 999999 11111</text>
+<text><loc_143><loc_31><loc_230><loc_38>Address: Øygaten 12</text>
+<text><loc_35><loc_58><loc_104><loc_89>HVL sykehus Medisinsk post 1 5000 BERGEN v/ Dr. ABC</text>
+<text><loc_313><loc_9><loc_340><loc_16>Ref.nr:</text>
+<text><loc_313><loc_20><loc_328><loc_27>789</text>
+<text><loc_259><loc_58><loc_460><loc_72>Eksternt ref.nr: 3e12312124241-123-124124-123 Antall glass mottatt: 5</text>
+<text><loc_264><loc_89><loc_311><loc_96>Proven tatt</text>
+<text><loc_323><loc_89><loc_370><loc_96>01.01.2025</text>
+<text><loc_381><loc_89><loc_404><loc_96>12:00</text>
+<text><loc_264><loc_97><loc_313><loc_104>Mottatt dato</text>
+<text><loc_323><loc_97><loc_370><loc_104>02.01.2000</text>
+<text><loc_381><loc_97><loc_404><loc_104>13:00</text>
+<text><loc_264><loc_105><loc_310><loc_112>Rapportert</text>
+<text><loc_323><loc_105><loc_370><loc_112>03.01.2025</text>
+<text><loc_381><loc_105><loc_404><loc_112>15:30</text>
+<section_header_level_1><loc_36><loc_125><loc_148><loc_135>Clinical Information</section_header_level_1>
+<text><loc_35><loc_143><loc_465><loc_174>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu libero, nonummy eget, consectetuer id, vulputate a, magna. Donec vehicula augue eu neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris ut leo.</text>
+<section_header_level_1><loc_36><loc_188><loc_93><loc_197>Diagnosis</section_header_level_1>
+<text><loc_35><loc_205><loc_465><loc_220>Primary diagnosis: Example diagnosis description. Secondary diagnosis: Additional diagnosis if applica­ ble.</text>
+<section_header_level_1><loc_36><loc_232><loc_81><loc_239>Ansvarlig</section_header_level_1>
+<text><loc_36><loc_245><loc_69><loc_252>Dr. DEF</text>
+<text><loc_35><loc_254><loc_73><loc_261>Overlege</text>
+<section_header_level_1><loc_36><loc_267><loc_156><loc_274>Mikroskopisk undersokelse</section_header_level_1>
+<text><loc_36><loc_276><loc_188><loc_283>status. EM ikke gjennomført</text>
+<text><loc_36><loc_284><loc_144><loc_291>Antall EPON blokker</text>
+<text><loc_36><loc_300><loc_166><loc_307>Toluidinblatt farget semitynnsnitt</text>
+<text><loc_36><loc_308><loc_68><loc_315>kortex</text>
+<text><loc_36><loc_317><loc_76><loc_323>medulla</text>
+<text><loc_36><loc_325><loc_116><loc_332>antall glomeruli</text>
+<text><loc_36><loc_333><loc_170><loc_340>antall vurderbare glomeruli</text>
+<text><loc_36><loc_341><loc_118><loc_348>antall glomeruli med</text>
+<text><loc_36><loc_349><loc_129><loc_356>...kun nekrose</text>
+<text><loc_36><loc_357><loc_96><loc_364>halvmåner</text>
+<text><loc_36><loc_365><loc_156><loc_372>segmental sklerose</text>
+<text><loc_36><loc_373><loc_136><loc_380>global sklerose</text>
+<text><loc_36><loc_381><loc_103><loc_388>iskemi</text>
+<text><loc_36><loc_397><loc_121><loc_404>Ultrastrukturelle funn</text>
+<text><loc_36><loc_405><loc_109><loc_412>Nedslag. påvist</text>
+<text><loc_36><loc_413><loc_126><loc_420>subepitelial. X</text>
+<text><loc_36><loc_421><loc_130><loc_428>intramembranØs</text>
+<text><loc_36><loc_429><loc_130><loc_436>subendotelial.</text>
+<text><loc_36><loc_437><loc_103><loc_444>mesangial.</text>
+<text><loc_36><loc_453><loc_142><loc_460>Fotprosessfusjon. global</text>
+<text><loc_36><loc_461><loc_137><loc_468>Basalmembran. global</text>
+<page_footer><loc_226><loc_488><loc_273><loc_495>Page 1 of 3</page_footer>
+</doctag>
+
+
+
+<doctag><picture><loc_43><loc_7><loc_114><loc_23></picture>
+<text><loc_143><loc_8><loc_239><loc_15>Navn: Christer Carlsen</text>
+<text><loc_143><loc_18><loc_271><loc_25>Personnummer. 999999 11111</text>
+<text><loc_143><loc_28><loc_230><loc_35>Address: Øygaten 12</text>
+<text><loc_35><loc_51><loc_129><loc_59>PATOLOGI-AVDELING</text>
+<text><loc_51><loc_59><loc_108><loc_66>A10000 B20000</text>
+<text><loc_136><loc_59><loc_156><loc_66>C30000</text>
+<text><loc_165><loc_59><loc_203><loc_66>D40000</text>
+<text><loc_211><loc_59><loc_251><loc_66>E50000</text>
+<text><loc_260><loc_59><loc_281><loc_66>F60000</text>
+<text><loc_35><loc_80><loc_212><loc_88>Historikk: Foreløpig svarrapport 01.01.1999</text>
+<text><loc_35><loc_88><loc_119><loc_95>Foreløpig diagnose:</text>
+<text><loc_35><loc_96><loc_90><loc_103>VELDIG SYK</text>
+<text><loc_35><loc_104><loc_61><loc_111>Biopsi</text>
+<text><loc_35><loc_112><loc_78><loc_119>Vurdering:</text>
+<text><loc_35><loc_120><loc_467><loc_144>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, ut purus elit, vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Nam arcu libero, nonummy eget, consectetuer id, vulputate a, magna.</text>
+<section_header_level_1><loc_35><loc_163><loc_81><loc_171>Ansvarlig</section_header_level_1>
+<text><loc_35><loc_177><loc_69><loc_184>Dr. DEF</text>
+<text><loc_35><loc_185><loc_76><loc_192>Overlege</text>
+<section_header_level_1><loc_35><loc_198><loc_138><loc_205>Strukturert informasjon</section_header_level_1>
+<text><loc_41><loc_206><loc_67><loc_213>Kortex</text>
+<text><loc_236><loc_206><loc_281><loc_213>Ikke pävist</text>
+<text><loc_41><loc_214><loc_73><loc_221>Medulla</text>
+<text><loc_236><loc_214><loc_281><loc_221>Ikke pävist</text>
+<text><loc_41><loc_222><loc_104><loc_229>Antall glomeruli</text>
+<text><loc_236><loc_222><loc_252><loc_229>159</text>
+<text><loc_41><loc_230><loc_188><loc_237>Antall glomeruli med global sklerose</text>
+<text><loc_236><loc_230><loc_248><loc_237>34</text>
+<text><loc_41><loc_238><loc_177><loc_245>Antall glomeruli med kun nekrose</text>
+<text><loc_236><loc_238><loc_248><loc_245>20</text>
+<text><loc_41><loc_246><loc_211><loc_253>Antall glomeruli med cellulare halvmåner</text>
+<text><loc_236><loc_246><loc_248><loc_253>0</text>
+<text><loc_41><loc_254><loc_211><loc_261>Antall glomeruli med fibrocellulære halvmåner</text>
+<text><loc_236><loc_254><loc_248><loc_261>15</text>
+<text><loc_41><loc_262><loc_201><loc_269>Antall glomeruli med fibrose halvmåner</text>
+<text><loc_236><loc_262><loc_248><loc_269>52</text>
+<text><loc_41><loc_270><loc_208><loc_277>Antall glomeruli med segmental sklerose</text>
+<text><loc_236><loc_270><loc_248><loc_277>1</text>
+<text><loc_41><loc_278><loc_218><loc_285>Antall glomeruli med iskemiske forandringer</text>
+<text><loc_236><loc_278><loc_248><loc_285>15</text>
+<text><loc_41><loc_286><loc_96><loc_293>Antall arterier</text>
+<text><loc_236><loc_286><loc_248><loc_293>20</text>
+<text><loc_41><loc_294><loc_102><loc_301>Arteriosklerose</text>
+<text><loc_236><loc_294><loc_260><loc_301>Ingen</text>
+<text><loc_41><loc_302><loc_106><loc_309>Arteriehyalinose</text>
+<text><loc_236><loc_302><loc_260><loc_309>Ingen</text>
+<text><loc_41><loc_310><loc_85><loc_317>Tubulusatrofi</text>
+<text><loc_236><loc_310><loc_252><loc_317>Lett</text>
+<text><loc_41><loc_318><loc_113><loc_325>Interstitiell fibrose</text>
+<text><loc_236><loc_318><loc_264><loc_325>Kraftig</text>
+<text><loc_41><loc_326><loc_112><loc_333>Interstitiell fibrose</text>
+<text><loc_236><loc_326><loc_252><loc_333>44</text>
+<text><loc_41><loc_334><loc_108><loc_341>Kongorödfarging</text>
+<text><loc_236><loc_334><loc_261><loc_341>pävist</text>
+<page_footer><loc_227><loc_487><loc_273><loc_494>Page 2 of 3</page_footer>
+<text><loc_313><loc_8><loc_341><loc_15>Ref.r:</text>
+<text><loc_313><loc_18><loc_328><loc_25>789</text>
+</doctag>
+
+
+
+<doctag><picture><loc_43><loc_7><loc_114><loc_24></picture>
+<text><loc_143><loc_8><loc_239><loc_15>Navn: Christer Carlsen</text>
+<text><loc_143><loc_18><loc_271><loc_25>Personnummer. 999999 11111</text>
+<text><loc_143><loc_28><loc_233><loc_35>Address: Øgyaten 12</text>
+<section_header_level_1><loc_36><loc_50><loc_161><loc_58>Mikroskopisk undersökelse:</section_header_level_1>
+<text><loc_36><loc_58><loc_467><loc_98>Quisque ullamcorper placerat ipsum. Cras nibh. Morbi vel justo vitae lacus tincidunt ultrices. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. In hac habitasse platea dictumst. Integer tempus convallis augue. Etiam facilisis. Nunc elementum fermentum wisi. Aenean placerat. Ut imperdiet, enim sed gravida sollicitudin, felis odio placerat quam, ac pulvinar elit purus eget enim. Nunc vitae tortor. Proin tempus nibh sit amet nisl. Vivamus quis tortor vitae risus porta vehicula.</text>
+<text><loc_36><loc_106><loc_214><loc_114>Historikk: Forelopig svarrapport 01.01.1999</text>
+<text><loc_36><loc_132><loc_177><loc_140>Immunatologiske funn i glomerul</text>
+<text><loc_36><loc_140><loc_119><loc_148>metode. Fritekst</text>
+<text><loc_36><loc_148><loc_96><loc_156>lgA......+++</text>
+<text><loc_36><loc_157><loc_96><loc_165>lgM......+++</text>
+<text><loc_36><loc_165><loc_96><loc_173>lgG......+++</text>
+<text><loc_36><loc_173><loc_83><loc_181>....C1q......-</text>
+<text><loc_36><loc_181><loc_83><loc_189>....C3......-</text>
+<text><loc_36><loc_189><loc_89><loc_197>....C5b-9......-</text>
+<text><loc_36><loc_197><loc_164><loc_205>lette kjeder..Norske AEØ</text>
+<page_footer><loc_226><loc_487><loc_273><loc_494>Page 3 of 3</page_footer>
+<text><loc_313><loc_8><loc_343><loc_15>Ref.r</text>
+<text><loc_313><loc_18><loc_331><loc_25>789</text>
+</doctag>
+
+

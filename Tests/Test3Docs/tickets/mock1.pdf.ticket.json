@@ -1,0 +1,12 @@
+{
+  "token": "6e2692be0a0dbc64",
+  "run_id": "5cd389cb",
+  "host": "student14@condormaster.datalab",
+  "remote_dir": "DocReader/Submissions/6e2692be0a0dbc64",
+  "document": "mock1.pdf",
+  "expected_files": [
+    "mock1.txt",
+    "mock1.json"
+  ],
+  "submitted": "2026-11-12T17:20:31+00:00"
+}
